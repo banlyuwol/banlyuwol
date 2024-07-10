@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hello, there! 👋
+I'm a highschool student who has passion for programming, as well as mechanical of computers/robots!
 
-<!--
-**banlyuwol/banlyuwol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Skills
+- Python, Java
+- Still learning to advane myself 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Hobbies & Interests
+- First of all, of course, keeping up with tech (TECH LOVER) ⚡
+- Machine learning
+- Skiing
+
+
+# What am I doing?
+- Working on Battleship project 🔭
+- Working on Games project
+- You can find my projects above in my respiratory!
+
+
+# What in the future?
+- Learn about other langauges and tools 🤔
+- Try Hackathon
+- Engage in a big project with other amazing programmers 👯
+
+
+# Contact
+- If you have any questions, feedback, or others, I would love to have a chat with you 😄
+
+📫 Email: banlyuwol@gmail.com
+💬 Instagram: (Coming soon..)
