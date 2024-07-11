@@ -14,9 +14,9 @@ I'm a highschool student who has passion for programming, as well as mechanical 
 
 
 # What am I doing?
-- Working on Battleship project 🔭
-- Working on Games project
-- You can find my projects above in my respiratory!
+- Working on "Battleship" project 🔭
+- Working on "Mini Games" project
+- You can find my projects below in my respiratory!
 
 
 # What in the future?
