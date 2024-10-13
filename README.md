@@ -4,13 +4,15 @@ I'm a highschool student who has passion for programming, as well as mechanical 
 
 # Skills
 - Python, Java
-- Still learning to advane myself 🌱
+- Still learn more things to advane myself 🌱
 
 
 # Hobbies & Interests
 - First of all, of course, keeping up with tech (TECH LOVER) ⚡
 - Machine learning
 - Skiing
+- F1
+- Photography
 
 
 # What am I doing?
@@ -21,7 +23,8 @@ I'm a highschool student who has passion for programming, as well as mechanical 
 
 # What in the future?
 - Learn about other langauges and tools 🤔
-- Try Hackathon
+- Try Hackathon (This year! 2024-2025)
+- Create my own peresonal website (Learn about HTML or Java Script)
 - Engage in a big project with other amazing programmers 👯
 
 
