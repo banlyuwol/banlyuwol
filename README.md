@@ -4,7 +4,7 @@ I'm a highschool student who has passion for programming, as well as mechanical 
 
 # Skills
 - Python, Java
-- Still learn more things to advane myself 🌱
+- Still learn more things to advance myself 🌱
 
 
 # Hobbies & Interests
